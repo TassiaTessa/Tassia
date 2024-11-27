@@ -1,113 +1,130 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Tassia Corcoran",
+    "label": "Shidler Master's Student",
+    "picture": "https://github.com/TassiaTessa.png",
+    "email": "Tassia@hawaii.edu",
+    "phone": "(909) 436-0137",
+    "website": "https://TassiaTessa.github.io",
+    "summary": "I am pursuing a Master's in Management Information Systems at the University of Hawaii, with an expected graduation date of Fall 2024. I have experience in consulting, teaching, and project management, specializing in technology integration and database development.",
+    "location": {
+      "address": "",
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "TassiaTessa",
+        "url": "http://github.com/TassiaTessa"
+      },
+      {
+        "network": "linkedin",
+        "username": "Tassia Corcoran",
+        "url": "https://www.linkedin.com/in/tassia-corcoran-b00574257"
+      },
+      {
+        "network": "instagram",
+        "username": "TassiaJune",
+        "url": "http://instagram.com/TassiaJune"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Microsoft Suite" },
+    { "name": "Art" },
+    { "name": "Virtual Reality and Augmented Reality" },
+    { "name": "Management" },
+    { "name": "3D Graphics" },
+    { "name": "Sustainable Tourism Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["HTML", "CSS", "SQL", "UNIX"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Programs",
+      "keywords": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Adobe Photoshop",
+        "Krita",
+        "SketchUp",
+        "Microsoft Access"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Database Design",
+        "Workflow Management",
+        "Generative AI",
+        "Dependency Analysis Tools"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "area": "Management Information Systems",
+      "studyType": "M.S.",
+      "startDate": "2021-09-01",
+      "endDate": "2024-12-01",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii Computer Sciences Department",
+      "position": "ICS 101 Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Teaching and guiding students in computer fundamentals and programming concepts.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Host weekly open labs with five assistants, ensuring smooth operation and supporting challenging tasks.",
+        "Develop engaging lesson plans to facilitate student understanding of HTML, CSS, UNIX, and Microsoft Office.",
+        "Provide mentorship to assistants and students, leveraging strong technical expertise."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Sodexo",
+      "position": "Marketing Intern",
+      "website": "https://uhm.sodexomyway.com/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Designing marketing materials and planning engagement events.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create graphics for events using tools like Krita and PowerPoint.",
+        "Organize large-scale student engagement activities to promote company visibility.",
+        "Analyze social media data to identify trends and optimize engagement strategies."
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "National Center for Women in Technology",
+      "website": "https://ncwit.org/",
+      "position": "Student Ambassador",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Promoting inclusivity in technology fields.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Organize outreach activities to promote the AiC Community on campus.",
+        "Foster a supportive environment for women, genderqueer, and non-binary individuals in tech."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii",
+      "summary": "Recognized for achieving a GPA of 3.5 or higher each semester."
     }
   ],
   "references": [
